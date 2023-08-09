@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Inkplate 10 mount - Bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.47408358"
+     inkscape:cx="361.75056"
+     inkscape:cy="217.26127"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2675"
+     inkscape:window-y="1121"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect615"
+       style="fill:#b3b3b3;stroke-width:1.19975"
+       d="M 9.9999064 0 L 9.9999064 2.5001058 A 5 5 0 0 1 5.0002116 7.4998006 L 0 7.4998006 L 0 169.50025 L 5.0002116 169.50025 A 5 5 0 0 1 9.9999064 174.49994 L 9.9999064 179.49964 L 5.0141642 179.49964 A 5 5 0 0 1 5.0002116 179.50015 L 226.00016 179.50015 A 5 5 0 0 1 225.98621 179.49964 L 220.99995 179.49964 L 220.99995 174.49994 A 5 5 0 0 1 226.00016 169.50025 L 230.99985 169.50025 L 230.99985 7.4998006 L 226.00016 7.4998006 A 5 5 0 0 1 220.99995 2.5001058 L 220.99995 0 L 9.9999064 0 z M 13.750065 7.4998006 L 217.24979 7.4998006 A 3.75 3.75 0 0 0 220.99995 11.249959 L 220.99995 165.75009 A 3.75 3.75 0 0 0 217.24979 169.50025 L 13.750065 169.50025 A 3.75 3.75 0 0 0 9.9999064 165.75009 L 9.9999064 11.249959 A 3.75 3.75 0 0 0 13.750065 7.4998006 z " />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="232.90298"
+       y="5.27072"
+       id="text885"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         style="font-size:3.88056px;fill:#ffff00;stroke-width:0.264583"
+         x="232.90298"
+         y="5.27072">## Laser notes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.88056px;fill:#ffff00;stroke-width:0.264583"
+         x="232.90298"
+         y="10.12142"
+         id="tspan889">* Grey - Cut (outline of Inkplate 10)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.88056px;fill:#ffff00;stroke-width:0.264583"
+         x="232.90298"
+         y="14.97212"
+         id="tspan951">* Yellow - Notes only</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.88056px;fill:#ffff00;stroke-width:0.264583"
+         x="232.90298"
+         y="19.822821"
+         id="tspan887" /></text>
+  </g>
+</svg>
