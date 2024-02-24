@@ -7,6 +7,8 @@ The idea is to glue a "top layer" and a "bottom layer" together and then screw t
 
 The mount is intended to be stuck to a wall or other surface using the double sided tape. However, it would be a simple matter to add screw holes to the design if you want to mount the Inkplate by drilling holes in your wall.
 
+Note that the mounting holes on the Inkplate 10 are not equidistant from the edges of the PCB, so the mount is not symmetrical. The design of this mounting plate follows the dimensions of the Inkplate 10 PCB, so it is not symmetrical either.
+
 Top layer
 ---------
 
